@@ -1,0 +1,2 @@
+# MovieRanking
+GoogleAppsScriptを用いて、映画の時間からWebスクレイピングしTwitterに投稿するスクリプト
