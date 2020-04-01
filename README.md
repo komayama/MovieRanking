@@ -1,7 +1,7 @@
 # MovieRanking
 GoogleAppsScriptを用いて、映画の時間からWebスクレイピングしTwitterに投稿するスクリプト
 
-#使い方
+## 使い方
 1. Googleスプレッドシートを作成し、「ツール」→「スクリプトエディタ」を選択する
 2. スクリプトを貼り付ける
 3. 「リソース」→「ライブラリ」から、「TwitterWebService」と「Parser」のライブラリを追加する
